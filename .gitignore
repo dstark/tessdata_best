@@ -1,0 +1,11 @@
+# Files to exclude
+**/*
+
+# Files to include
+!**/.gitignore
+!deu*
+!eng*
+!fra*
+!grc*
+!heb*
+!lat*
